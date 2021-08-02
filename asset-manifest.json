@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://fpreseault.github.io/csb-q16oj/static/css/main.60daad25.chunk.css",
+    "main.css": "https://fpreseault.github.io/csb-q16oj/static/css/main.2f0ec27b.chunk.css",
     "main.js": "https://fpreseault.github.io/csb-q16oj/static/js/main.4326f6f7.chunk.js",
     "main.js.map": "https://fpreseault.github.io/csb-q16oj/static/js/main.4326f6f7.chunk.js.map",
     "runtime-main.js": "https://fpreseault.github.io/csb-q16oj/static/js/runtime-main.1a069c58.js",
@@ -8,7 +8,7 @@
     "static/js/2.93e2d867.chunk.js": "https://fpreseault.github.io/csb-q16oj/static/js/2.93e2d867.chunk.js",
     "static/js/2.93e2d867.chunk.js.map": "https://fpreseault.github.io/csb-q16oj/static/js/2.93e2d867.chunk.js.map",
     "index.html": "https://fpreseault.github.io/csb-q16oj/index.html",
-    "static/css/main.60daad25.chunk.css.map": "https://fpreseault.github.io/csb-q16oj/static/css/main.60daad25.chunk.css.map",
+    "static/css/main.2f0ec27b.chunk.css.map": "https://fpreseault.github.io/csb-q16oj/static/css/main.2f0ec27b.chunk.css.map",
     "static/js/2.93e2d867.chunk.js.LICENSE.txt": "https://fpreseault.github.io/csb-q16oj/static/js/2.93e2d867.chunk.js.LICENSE.txt",
     "static/media/explore-more-games-sample-1.jpg": "https://fpreseault.github.io/csb-q16oj/static/media/explore-more-games-sample-1.6c633703.jpg",
     "static/media/explore-more-games-sample-2.jpg": "https://fpreseault.github.io/csb-q16oj/static/media/explore-more-games-sample-2.aa217ed0.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.1a069c58.js",
     "static/js/2.93e2d867.chunk.js",
-    "static/css/main.60daad25.chunk.css",
+    "static/css/main.2f0ec27b.chunk.css",
     "static/js/main.4326f6f7.chunk.js"
   ]
 }
