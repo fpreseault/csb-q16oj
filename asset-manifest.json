@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-q16oj/static/css/main.31ea438b.chunk.css",
+    "main.js": "https://.github.io/csb-q16oj/static/js/main.86d3b359.chunk.js",
+    "main.js.map": "https://.github.io/csb-q16oj/static/js/main.86d3b359.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-q16oj/static/js/runtime-main.c7a1826e.js",
+    "runtime-main.js.map": "https://.github.io/csb-q16oj/static/js/runtime-main.c7a1826e.js.map",
+    "static/js/2.93e2d867.chunk.js": "https://.github.io/csb-q16oj/static/js/2.93e2d867.chunk.js",
+    "static/js/2.93e2d867.chunk.js.map": "https://.github.io/csb-q16oj/static/js/2.93e2d867.chunk.js.map",
+    "index.html": "https://.github.io/csb-q16oj/index.html",
+    "static/css/main.31ea438b.chunk.css.map": "https://.github.io/csb-q16oj/static/css/main.31ea438b.chunk.css.map",
+    "static/js/2.93e2d867.chunk.js.LICENSE.txt": "https://.github.io/csb-q16oj/static/js/2.93e2d867.chunk.js.LICENSE.txt",
+    "static/media/explore-more-games-sample-1.jpg": "https://.github.io/csb-q16oj/static/media/explore-more-games-sample-1.6c633703.jpg",
+    "static/media/explore-more-games-sample-2.jpg": "https://.github.io/csb-q16oj/static/media/explore-more-games-sample-2.aa217ed0.jpg",
+    "static/media/explore-more-games-sample-3.jpg": "https://.github.io/csb-q16oj/static/media/explore-more-games-sample-3.b53968c6.jpg",
+    "static/media/explore-more-games-sample-4.jpg": "https://.github.io/csb-q16oj/static/media/explore-more-games-sample-4.70c9bb8b.jpg",
+    "static/media/explore-more-games-sample-5.jpg": "https://.github.io/csb-q16oj/static/media/explore-more-games-sample-5.fb1570fd.jpg",
+    "static/media/explore-more-games-sample-6.jpg": "https://.github.io/csb-q16oj/static/media/explore-more-games-sample-6.6831b446.jpg",
+    "static/media/styles.css": "https://.github.io/csb-q16oj/static/media/xbox.be18491c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7a1826e.js",
+    "static/js/2.93e2d867.chunk.js",
+    "static/css/main.31ea438b.chunk.css",
+    "static/js/main.86d3b359.chunk.js"
+  ]
+}
